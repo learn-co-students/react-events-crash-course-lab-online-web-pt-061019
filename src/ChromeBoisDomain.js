@@ -38,7 +38,6 @@ export default class ChromeBoisDomain extends Component {
         onMouseMove={this.handleMouseMove}
         onClick={toggleCycling}
         onKeyPress={this.handleKeyPress}
-        // onKeyPress={resize}
         width='900'
         height='600'
         tabIndex="0">
